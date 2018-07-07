@@ -56,7 +56,7 @@ h2{
 
 .projects {
 	background: #ffc2b3;
-	height: 300px;
+	min-height: 300px;
 	color: #1f1f14;
 
 	
