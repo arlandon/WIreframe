@@ -73,10 +73,8 @@ h2{
 
 .footer {
 	background: #33ff77;
-	height: 50px;
-	color: #00cc44;
-	color: #1f1f14;
-	
+	min-height: 50px;
+
 
 }
 
@@ -202,7 +200,12 @@ img[alt*="social"]{
 .socmed{
 
 
-	float: right;
+}
+
+footer{
+
+	text-align: center;
+
 }
 
 nav >a, nav >a:visited , nav >a:hover , nav >a:active  {
